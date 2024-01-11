@@ -1,0 +1,30 @@
+{
+  "A" :{
+    "num": "sol 1 2 3 4 5 6 7 8 9 0 sag",
+    "row0": "f g ğ ı o d r n h p q w",
+    "row1": "u i e a ü t k m l y ş",
+    "row2": "sft j ö v c ç z s b x del",
+    "row3": "!?# , space . enter"
+  },
+  "B": {
+    "num": "sol 1 2 3 4 5 6 7 8 9 0 sag",
+    "row0": "F G Ğ I O D R N H P Q W",
+    "row1": "U İ E A Ü T K M L Y Ş",
+    "row2": "sft J Ö V C Ç Z S B X del",
+    "row3": "!?# , space . enter"
+  },
+  "C": {
+    "num": "[ ] θ ÷ < > ` ´ { }",
+    "row0": "© £ € + ® ¥ π Ω λ β",
+    "row1": "@ # $ % & * - = ( )",
+    "row2": "sft ! \" ' : ; / ? del",
+    "row3": "ABC , space . enter"
+  },
+  "D": {
+    "num": "√ ℕ ★ × ™ ‰ ∛ ^ ~ ±",
+    "row0": "♣️ ♠️ ♪ ♥️ ♦️ ≈ Π ¶ § ∆",
+    "row1": "← ↑ ↓ → ∞ ≠ _ ℅ ‘ ’",
+    "row2": "sft ¡ • ° ¢ | \\ ¿ del",
+    "row3": "ABC , space . enter"
+  }
+}
