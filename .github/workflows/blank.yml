@@ -39,4 +39,4 @@ jobs:
           prerelease: false
           title: "Auto build"
           files: |
-            ./app/build/outputs/apk/*
+            ./app/build/outputs/apk/debug/app-debug.apk
